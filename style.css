@@ -1,0 +1,40 @@
+.myDropdown {
+    display: block;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -7px;
+}
+
+img {
+    height: 400px;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 60%;
+    height: 450px;
+    margin: auto;
+    border: 100px;
+    background-color: black;
+}
+
+body {
+    background-image: linear-gradient(to bottom, grey, rgba(0, 0, 0, 0.744));
+}
+
+h1 {
+    font-size: 40px;
+    background-image: url(https://www.luisaambros.com/wp/wp-content/uploads/chuvisco-de-tv-fora-do-ar-analogica-antiga-sem-sinal-animada.gif);
+}
+
+.jumbotron{
+    background-color: gray;
+}
+
+p {
+    text-indent: 20px;
+}
